@@ -1788,7 +1788,7 @@ li {
   height: 320px;
 }
 .project-item-2 {
-  background: url("/03.2ce72849.png");
+  background: url("03.2ce72849.png");
   background-repeat: no-repeat;
   background-size: cover;
   width: 337px;
@@ -1811,7 +1811,7 @@ li {
   z-index: 5;
 }
 .project-item-3 {
-  background: url("/04.370325b6.png");
+  background: url("04.370325b6.png");
   background-repeat: no-repeat;
   background-size: cover;
   width: 337px;
