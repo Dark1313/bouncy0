@@ -98,7 +98,7 @@ li {
 
 @media (max-width: 1500px) and (min-width: 1300px) {
   .header {
-    background: url("/01.277f3021.png");
+    background: url("01.277f3021.png");
     background-repeat: no-repeat;
     background-size: cover;
     max-width: 1500px;
@@ -4732,7 +4732,7 @@ li {
   border-color: #19BD9A;
 }
 .contacts .contact-map {
-  background: url("/26.555a80e7.png");
+  background: url("26.555a80e7.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-blend-mode: multiply;
